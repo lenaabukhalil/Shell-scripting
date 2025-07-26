@@ -14,3 +14,4 @@ for ((i=0; i<5; i++)); do
     mkdir -p "$dirname/dir_$i"
     echo "Created: $dirname/dir_$i"
 done
+#  touch انشاء مجلد 
